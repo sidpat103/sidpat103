@@ -62,15 +62,3 @@ To evolve into a high-impact software engineer capable of designing intelligent,
 
 * Open to collaboration on Web Development & AI/ML projects
 * Always interested in learning opportunities and innovative problem statements
-
----
-
-If you'd like, I can also provide:
-
-* 🔥 A more minimal version
-* 💼 A professional recruiter-focused version
-* 🎮 A more creative/dev personality version
-* 📊 A version with GitHub stats badges included
-
-Just let me know the direction you want.
-## Hi there 👋
